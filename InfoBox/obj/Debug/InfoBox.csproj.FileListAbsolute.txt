@@ -1,0 +1,15 @@
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\bin\Debug\InfoBox.pdb
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox.csprojResolveAssemblyReference.cache
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox_MarkupCompile.cache
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox_MarkupCompile.lref
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox.g.resources
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox.Properties.Resources.resources
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox.csproj.GenerateResource.Cache
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox.pdb
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBoxWindow.g.cs
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBoxWindow.baml
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\bin\Debug\InfoBox.dll.config
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\bin\Debug\InfoBox.dll
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\obj\Debug\InfoBox.dll
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\bin\Debug\info.ico
+e:\users\mjh\documents\visual studio 2017\Projects\InfoBox\InfoBox\bin\Debug\warn.ico
