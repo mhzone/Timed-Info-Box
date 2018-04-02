@@ -1,0 +1,15 @@
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter.csprojResolveAssemblyReference.cache
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\MainWindow.g.cs
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\App.g.cs
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter_MarkupCompile.cache
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter_MarkupCompile.lref
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\bin\Debug\Starter.exe.config
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\bin\Debug\Starter.exe
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\bin\Debug\Starter.pdb
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\bin\Debug\InfoBox.dll
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\MainWindow.baml
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter.g.resources
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter.Properties.Resources.resources
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter.csproj.GenerateResource.Cache
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter.exe
+e:\users\mjh\documents\visual studio 2017\Projects\Starter\Starter\obj\Debug\Starter.pdb

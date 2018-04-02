@@ -1,0 +1,18 @@
+﻿<Window x:Class="Starter.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Starter"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Button Content="Information" HorizontalAlignment="Left" Margin="116,149,0,0" VerticalAlignment="Top" Width="75" Click="info"
+                />
+        <Button Content="Warning" HorizontalAlignment="Left" Margin="325,149,0,0" VerticalAlignment="Top" Width="75" Click="warn"/>
+        <Button Content="Close" HorizontalAlignment="Left" Margin="220,264,0,0" VerticalAlignment="Top" Width="75" Click="close"/>
+        <Label Content="Launcher for testing timed info box." HorizontalAlignment="Left" Margin="155,13,0,0" VerticalAlignment="Top"/>
+        <Label Content="Click on 'Information' to see example of an Information box." HorizontalAlignment="Left" Margin="96,71,0,0" VerticalAlignment="Top"/>
+        <Label Content="Click on 'Warning' to see example of a warning box" HorizontalAlignment="Left" Margin="118,99,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>
